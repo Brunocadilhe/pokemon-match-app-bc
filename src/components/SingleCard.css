@@ -103,3 +103,11 @@
     margin-bottom: 10px;
   }
 }
+@media screen and (max-width: 230px) {
+  .card {
+    margin-right: 6px;
+    margin-left: 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
