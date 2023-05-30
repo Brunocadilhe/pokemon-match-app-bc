@@ -73,7 +73,7 @@ button:hover {
     width: 380px;
   }
 }
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 230px) {
   .container-grid .card-grid {
     grid-template-columns: 1fr;
     margin-top: 40px;
